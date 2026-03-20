@@ -2,7 +2,7 @@
 
 Applied Mathematics student focused on finance and quantitative research.
 
-I build research-oriented Python projects in derivatives, empirical finance, and experimental economics.
+I use Python to build projects in quant finance, data analysis, and experimental research.
 
 ## Featured Projects
 - [BSM-Taylor](https://github.com/williamrule/BSM-Taylor) — Taylor-series approximation of Black-Scholes with pricing, Greeks, error, and speed experiments.
@@ -12,8 +12,8 @@ I build research-oriented Python projects in derivatives, empirical finance, and
 
 ## Research
 - Bay Honors Research Symposium presenter at UC Berkeley
-- SSRN paper author
-- Research Assistant building behavioral-economics experiments in Python/oTree
+- SSRN paper author; ranked Top 10 downloaded (#4 and #9) in two SSRN eJournals based on recent metrics
+- Research Assistant at Chapman University; building behavioral-economics experiments in Python/oTree
 
 ## Skills
 Python, pandas, NumPy, matplotlib, Git/GitHub, Excel, oTree
