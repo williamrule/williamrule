@@ -1,16 +1,22 @@
-## Hi there 👋
+# William Rule
 
-<!--
-**williamrule/williamrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics student focused on finance and quantitative research.
 
-Here are some ideas to get you started:
+I build research-oriented Python projects in derivatives, empirical finance, and experimental economics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [BSM-Taylor](https://github.com/williamrule/BSM-Taylor) — Taylor-series approximation of Black-Scholes with pricing, Greeks, error, and speed experiments.
+- [public_goods_game](https://github.com/williamrule/public_goods_game) — Python/oTree platform for a 2x2 public-goods experiment with automated payoff logic, role assignment, and exportable data.
+- [MovingAverage](https://github.com/williamrule/MovingAverage) — Vectorized SPY moving-average crossover backtester across 200+ parameter pairs with Sharpe/CAGR/max-drawdown analysis.
+- [Carbon-Credit-Research-Source-Code](https://github.com/williamrule/Carbon-Credit-Research-Source-Code) — Empirical analysis of 50,000+ Klima DAO transactions to study liquidity, transparency, and usability in tokenized carbon markets.
+
+## Research
+- Bay Honors Research Symposium presenter at UC Berkeley
+- SSRN paper author
+- Research Assistant building behavioral-economics experiments in Python/oTree
+
+## Skills
+Python, pandas, NumPy, matplotlib, Git/GitHub, Excel, oTree
+
+## Links
+- LinkedIn: [William Rule](https://www.linkedin.com/in/william-rule-57150328b/)
