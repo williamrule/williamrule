@@ -17,7 +17,7 @@ I use Python to build projects in quant finance, data analysis, and experimental
 - Research Assistant at Chapman University; building behavioral economics experiments in Python and oTree
 
 ## Skills
-Python, pandas, NumPy, matplotlib, Git/GitHub, MatLab, oTree
+Python, Pandas, NumPy, Matplotlib, Git/GitHub, MatLab, oTree
 
 ## Links
-- LinkedIn: [William Rule]([https://www.linkedin.com/in/william-rule-57150328b/])
+- LinkedIn: [William Rule](https://www.linkedin.com/in/williamrule/)
