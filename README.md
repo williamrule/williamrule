@@ -20,4 +20,4 @@ I use Python to build projects in quant finance, data analysis, and experimental
 Python, pandas, NumPy, matplotlib, Git/GitHub, MatLab, oTree
 
 ## Links
-- LinkedIn: [William Rule](https://www.linkedin.com/in/william-rule-57150328b/)
+- LinkedIn: [William Rule]([https://www.linkedin.com/in/william-rule-57150328b/](https://www.linkedin.com/in/williamrule/))
